@@ -1,0 +1,5 @@
+Ford Mustang 145 60
+Ford ModelV 134.5 300 245
+Ford Hybrid 125.8 35
+Ford Hybrid 125.8 250 200
+ 260 150
